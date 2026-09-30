@@ -1,0 +1,6 @@
+{
+  "name": "StrataOps",
+  "description": "Full-stack engineering fleet and resource management hub with comprehensive CRUD operations for projects, tasks, incidents, infrastructure assets, and personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
